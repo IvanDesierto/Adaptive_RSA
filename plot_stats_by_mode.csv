@@ -1,0 +1,5 @@
+,decryption_us,decryption_us,decryption_us,decryption_us,decryption_us,decryption_us,decryption_s,decryption_s,decryption_s,decryption_s,decryption_s,decryption_s,energy_j,energy_j,energy_j,energy_j,energy_j,energy_j
+,count,mean,median,std,min,max,count,mean,median,std,min,max,count,mean,median,std,min,max
+mode,,,,,,,,,,,,,,,,,,
+Standard,100,2561.38,2515.5,510.905846,972,4604,100,0.002561,0.002516,0.000511,0.000972,0.004604,0,,,,,
+Multi-prime,100,1882.67,1902.5,951.516674,987,7453,100,0.001883,0.001902,0.000952,0.000987,0.007453,0,,,,,

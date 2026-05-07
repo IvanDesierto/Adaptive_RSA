@@ -1,0 +1,4 @@
+scenario,avg_energy_per_decryption_j,mission_life_minutes_to_5pct,additional_minutes_vs_static_standard
+Static Standard RSA,0.012806900000000001,2472.6254336854868,0.0
+Static Multi-prime RSA,0.009413350000000001,3364.016706769287,891.3912730838001
+Adaptive with Hysteresis,0.011110125000000002,2850.252959950195,377.6275262647082
